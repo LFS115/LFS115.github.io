@@ -1,194 +1,208 @@
-<div align="center">
-  <br>
-
-  <a href="https://github.com/jeffreytse/jekyll-theme-yat">
-    <img alt="jekyll-theme-yat →~ jekyll" src="https://user-images.githubusercontent.com/9413601/106478481-346fdf00-64e4-11eb-9385-1ab5329c3234.png" width="600">
-  </a>
-
-  <h1>🎨 JEKYLL YAT THEME 🎨</h1>
-
-</div>
-
-<h4 align="center">
-  <a href="https://jekyllrb.com/" target="_blank"><code>Jekyll</code></a> theme for elegant writers.
-</h4>
-
 <p align="center">
-  <a href="https://jeffreytse.github.io/jekyll-theme-yat">
-    <img src="https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg"
-      alt="Github Pages" />
-  </a>
-
-  <a href="http://badge.fury.io/rb/jekyll-theme-yat">
-    <img src="https://badge.fury.io/rb/jekyll-theme-yat.svg"
-      alt="Gem Version" />
-  </a>
-
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"
-      alt="License: MIT" />
-  </a>
-
-  <a href="https://liberapay.com/jeffreytse">
-    <img src="http://img.shields.io/liberapay/goal/jeffreytse.svg?logo=liberapay"
-      alt="Donate (Liberapay)" />
-  </a>
-
-  <a href="https://patreon.com/jeffreytse">
-    <img src="https://img.shields.io/badge/support-patreon-F96854.svg?style=flat-square"
-      alt="Donate (Patreon)" />
-  </a>
-
-  <a href="https://ko-fi.com/jeffreytse">
-  <img height="20" src="https://www.ko-fi.com/img/githubbutton_sm.svg"
-  alt="Donate (Ko-fi)" />
+  <a href="https://squidfunk.github.io/mkdocs-material/">
+    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.svg" width="320" alt="Material for MkDocs">
   </a>
 </p>
 
-<div align="center">
-  <sub>Built with ❤︎ by
-  <a href="https://jeffreytse.net">jeffreytse</a> and
-  <a href="https://github.com/jeffreytse/jekyll-theme-yat/graphs/contributors">contributors </a>
-</div>
-
-<br>
-
-Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
-**Yet Another Theme** is a modern responsive theme, and it's quiet clear,
-clean and neat for writers and posts. **If you like the theme, give it
-a star!**
-
-
 <p align="center">
-
-  <img src="https://user-images.githubusercontent.com/9413601/91842897-6a840b00-ec87-11ea-95ca-52abcc1ac063.png" alt="demo-screenshot" width="780px"/>
-
+  <strong>
+    A 
+    <a href="https://material.io/">Material Design</a> 
+    theme for 
+    <a href="https://www.mkdocs.org/">MkDocs</a>
+  </strong>
 </p>
 
-<h3 align="center">🌌 Night Mode</h3>
-
 <p align="center">
-
-  <img src="https://user-images.githubusercontent.com/9413601/94983351-760f6e00-0574-11eb-9494-5303ad6228dc.gif" alt="demo-screenshot" width="780px"/>
-
+  <a href="https://github.com/squidfunk/mkdocs-material/actions"><img
+    src="https://github.com/squidfunk/mkdocs-material/workflows/build/badge.svg?branch=master"
+    alt="Build"
+  /></a>
+  <a href="https://pypistats.org/packages/mkdocs-material"><img
+    src="https://img.shields.io/pypi/dm/mkdocs-material.svg" 
+    alt="Downloads"
+  /></a>
+  <a href="https://gitter.im/squidfunk/mkdocs-material"><img 
+    src="https://badges.gitter.im/squidfunk/mkdocs-material.svg" 
+    alt="Chat on Gitter"
+  /></a>
+  <a href="https://pypi.org/project/mkdocs-material"><img 
+    src="https://img.shields.io/pypi/v/mkdocs-material.svg" 
+    alt="Python Package Index"
+  /></a>
+  <a href="https://hub.docker.com/r/squidfunk/mkdocs-material/"><img 
+    src="https://img.shields.io/docker/pulls/squidfunk/mkdocs-material" 
+    alt="Docker Pulls"
+  /></a>
 </p>
 
-## ✨ Features
+<p align="center">
+  Create a branded static site from a set of Markdown files to host the
+  documentation of your Open Source or commercial project – customizable,
+  searchable, mobile-friendly, 40+ languages. Set up in 5 minutes.
+</p>
 
-- Support beautiful __Night Mode__.
-- Modern responsive web design.
-- Full layouts `home`, `post`, `tags`, `archive` and `about`.
-- Uses font awesome 5 for icons.
-- Beautiful Syntax Highlight using [highlight.js][highlight-js].
-- RSS support using [Jekyll Feed][jekyll-feed] gem.
-- Optimized for search engines using [Jekyll Seo Tag][jekyll-seo-tag] gem.
-- Sitemap support using [Jekyll Sitemap][jekyll-sitemap] gem.
-- Complex and flexible table support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- MathJAX and LaTeX optional support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- Media (Youtube, Spotify, etc.) support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- Diagram (PlantUML, Mermaid) support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- Google Translation support.
-- New post tag support.
+<p align="center">
+  <a href="https://squidfunk.github.io/mkdocs-material/getting-started/">
+    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/screenshot.png" width="700" />
+  </a>
+</p>
 
-Also, visit the [Live Demo][yat-live-demo] site for the theme.
+<p align="center">
+  <em>
+    Check out the demo – 
+    <a
+      href="https://squidfunk.github.io/mkdocs-material/"
+    >squidfunk.github.io/mkdocs-material</a>.
+  </em>
+</p>
 
-## 🛠️  Installation
+<h2></h2>
+<p>&nbsp;</p>
+<p id="premium-sponsors" align="center"><strong>Special thanks</strong> to our <strong>premium sponsors</strong>:</p>
+<p>&nbsp;</p>
+<p align="center">
+  <a href="https://cirrus-ci.org/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-cirrus-ci.png" height="65"
+  /></a>
+  <a href="https://docs.baslerweb.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-basler.png" height="65"
+  /></a>
+  <a href="https://hummingbot.io/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-hummingbot.png" height="65"
+  /></a>
+  <a href="https://kx.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-kx.png" height="65"
+  /></a>
+  <a href="https://www.manticoregames.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-manticore-games.png" height="65"
+  /></a>
+  <a href="https://www.accounttechnologies.com/" target=_blank><img
+    src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-account-technologies.png" height="65"
+  /></a>
+</p>
+<p>&nbsp;</p>
 
-There are three ways to install:
+## Features
 
-- As a [gem-based theme](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes).
-- As a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) (GitHub Pages compatible).
-- Forking/directly copying all of the theme files into your project.
+* **It's just Markdown ...** — write your technical documentation in Markdown –
+  no need to know HTML, JavaScript or CSS. Material for MkDocs will do the heavy
+  lifting and create a beautiful and functional website.
 
-### Gem-based Theme Method
+* **... but there's more** — integrates natively with Python Markdown
+  Extensions, adding callouts, tabbed content containers, mathematical formulas,
+  critic markup, task lists, and [more than 10k icons and emojis][icons-emojis].
 
-Add this line to your Jekyll site's `Gemfile`:
+* **Responsive by design** — built from the ground up to work on all kinds of
+  devices – from mobile phones to widescreens. The underlying fluid layout will
+  always adapt perfectly to the available screen space.
 
-```ruby
-gem "jekyll-theme-yat"
+* **Static, but searchable** — almost magically, your technical documentation
+  website will be searchable without any further ado. Material for MkDocs comes
+  with built-in search – no server needed.
+
+* **Many configuration options** — change the color palette, font families,
+  language, icons, favicon and logo. Add a source repository link, links to your
+  social profiles, Google Analytics and Disqus - all with a few lines of config.
+
+* **Truly international** — thanks to many contributors, Material for MkDocs
+  includes translations for more than 40 languages and offers full native RTL
+  (right-to-left) support.
+
+* **Accessible** — Material for MkDocs provides extensible keyboard navigation
+  and semantic markup including role attributes and landmarks. Furthermore, the
+  layout respects the user's default font size.
+
+* **Modern architecture** — Material for MkDocs's underlying codebase is built
+  on top of TypeScript, RxJS, and SCSS, bringing excellent possibilities for
+  theme extension and customization.
+
+
+  [icons-emojis]: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+
+## Quick start
+
+Material for MkDocs can be installed with `pip`:
+
+``` sh
+pip install mkdocs-material
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+Add the following line to `mkdocs.yml`:
 
-```yaml
-theme: jekyll-theme-yat
+``` yaml
+theme:
+  name: material
 ```
 
-And then execute:
+For other installation methods, configuration options, and a demo, visit
+[squidfunk.github.io/mkdocs-material][Material for MkDocs]
 
-```bash
-$ bundle
-```
+  [Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
 
-Or install it yourself as:
+## Trusted by ...
 
-```bash
-$ gem install jekyll-theme-yat
-```
+### ... leading organizations
 
-### Remote Theme Method with GitHub Pages
+[Atlassian](https://atlassian.github.io/data-center-helm-charts/),
+[AWS](https://aws.github.io/copilot-cli/),
+[Binance](https://docs.binance.org/),
+[Bloomberg](https://bloomberg.github.io/selekt/),
+[CERN](http://abpcomputing.web.cern.ch/),
+[Datadog](https://datadoghq.dev/integrations-core/),
+[Google](https://google.github.io/accompanist/),
+[ING](https://ing-bank.github.io/baker/),
+[Intel](https://open-amt-cloud-toolkit.github.io/docs/),
+[LinkedIn](https://linkedin.github.io/school-of-sre/),
+[Microsoft](https://microsoft.github.io/code-with-engineering-playbook/),
+[Mozilla](https://mozillafoundation.github.io/engineering-handbook/),
+[Netflix](https://netflix.github.io/titus/),
+[Salesforce](https://policy-sentry.readthedocs.io/en/latest/),
+[SoundCloud](https://intervene.dev/),
+[Square](https://square.github.io/okhttp/),
+[Zalando](https://opensource.zalando.com/skipper/)
 
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
+### ... and successful Open Source projects
 
-To install:
+[Arduino](https://arduino.github.io/arduino-cli/),
+[AutoKeras](https://autokeras.com/),
+[BFE](https://www.bfe-networks.net/),
+[Crystal](https://crystal-lang.org/reference/),
+[Electron](https://www.electron.build/),
+[FastAPI](https://fastapi.tiangolo.com/),
+[Knative](https://knative.dev/docs/),
+[Kubernetes](https://kops.sigs.k8s.io/),
+[kSQL](https://docs.ksqldb.io/),
+[Nokogiri](https://nokogiri.org/),
+[OpenFaaS](https://docs.openfaas.com/),
+[Pi-Hole](https://docs.pi-hole.net/),
+[Pydantic](https://pydantic-docs.helpmanual.io/),
+[Renovate](https://docs.renovatebot.com/),
+[Traefik](https://docs.traefik.io/),
+[Vapor](https://docs.vapor.codes/),
+[ZeroNet](https://zeronet.io/docs/),
+[WTF](https://wtfutil.com/)
 
-Add this line to your Jekyll site's `Gemfile`:
+## License
 
-```ruby
-gem "github-pages", group: :jekyll_plugins
-```
+**MIT License**
 
-And add this line to your Jekyll site's `_config.yml`:
+Copyright (c) 2016-2021 Martin Donath
 
-```yaml
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
-```
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-And then execute:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-```bash
-$ bundle
-```
-
-### GitHub Pages without limitation
-
-GitHub Pages runs in `safe` mode and only allows [a set of whitelisted plugins/themes](https://pages.github.com/versions/). __In other words, the third-party gems will not work normally__.
-
-To use the third-party gem in GitHub Pages without limitation:
-
-Here is a GitHub Action named [jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) for Jekyll site deployment conveniently. 👍
-
-
-## 📚 Usage
-
-Add or update your available layouts, includes, sass and/or assets.
-
-## ✏️  Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_data`, `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-yat.gemspec` accordingly.
-
-## 🔫 Contributing
-
-Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
-
-You can start by [opening an issue](https://github.com/jeffreytse/jekyll-theme-yat/issues/new) describing the problem that you're looking to resolve and we'll go from there.
-
-## 🌈 License
-
-This theme is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © JeffreyTse.
-
-<!-- External links -->
-[jekyll]: https://jekyllrb.com/
-[yat-git-repo]: https://github.com/jeffreytse/jekyll-theme-yat/
-[yat-live-demo]: https://jeffreytse.github.io/jekyll-theme-yat/
-[jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
-[jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
-[jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
-[jekyll-feed]: https://github.com/jekyll/jekyll-feed
-[highlight-js]: https://github.com/highlightjs/highlight.js
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
