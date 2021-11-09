@@ -19,9 +19,9 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: LFS118
+site_name: LFS115
 site_url: https://lfs115.github.io/
-site_author: LFS118
+site_author: LFS115
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project
